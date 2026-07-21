@@ -13,5 +13,8 @@
     "dotenv": "^16.6.1",
     "express": "^5.1.0",
     "openai": "^6.26.0"
+  },
+  "engines": {
+    "node": "22.x"
   }
 }
